@@ -3,7 +3,7 @@ const router = express.Router();
 const jwt = require('jsonwebtoken')
 const User = require('../models/userModels')
 const passport = require('passport')
-
+ 
 router.get('/google',
   passport.authenticate('google', { scope: ['profile','email'] }));
 
