@@ -1,5 +1,4 @@
 # 🚀 Google Authentication with Passport.js, Express & MongoDB  
-# 🚀 Authentification Google avec Passport.js, Express & MongoDB  
 
 👉 If you find this project useful, **don’t forget to give it a ⭐️ on GitHub!**  
 👉 Si tu trouves ce projet intéressant, **n’hésite pas à lui mettre une ⭐️ sur GitHub !**  
@@ -7,7 +6,7 @@
 ---
 
 ## 🇬🇧 English  
-
+ 
 This project implements **Google OAuth 2.0 authentication** using **Passport.js** in a **Node.js + Express** application, with **MongoDB** for user storage.  
 
 ---  
